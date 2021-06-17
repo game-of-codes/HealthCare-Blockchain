@@ -79,7 +79,7 @@ The projects requires NodeJS and npm to work. Instructions to install all other 
 
 1. Open new Terminal and deploy contracts using `truffle migrate`
 2. Copy deployed contract address to src/app.js
-   ![alt text](https://raw.githubusercontent.com/)
+   ![alt text](https://raw.githubusercontent.com/game-of-codes/HealthCare-Blockchain/master/images/ganace-contracct.png)
 
 ```js
 // app/src/app.js  line number 11
@@ -95,9 +95,9 @@ var agentContractAddress = "0x75E115394aacC7c6063E593B9292CB9417E4cbeC";
 
 - Connect metamask to localhost:8485
 - Click on import account
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/meta-1.png)
+  ![alt text](https://raw.githubusercontent.com/game-of-codes/HealthCare-Blockchain/master/images/meta-1.png)
 - Select any account from ganache and copy the private key to import account into metaMask
-  ![alt text](https://raw.githubusercontent.com/SuyashMore/SwasthyaChain/master/images/con-g1.png)
+  ![alt text](https://raw.githubusercontent.com/game-of-codes/HealthCare-Blockchain/master/images/con-g1.png)
 
 #### 2. Starting IPFS
 
